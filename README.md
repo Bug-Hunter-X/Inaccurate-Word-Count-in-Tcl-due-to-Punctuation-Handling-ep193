@@ -1,0 +1,1 @@
+This repository contains a Tcl procedure designed to count words in a given text string.  However, the initial implementation has a bug: it fails to correctly handle punctuation marks adjacent to words, leading to an inaccurate word count. A solution is provided that addresses this issue.
